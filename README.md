@@ -132,7 +132,7 @@ By the end of this repository, I will be able to:
 
 ---
 
-##🧑‍💻 Tech Stack (Conceptual)
+## 🧑‍💻 Tech Stack (Conceptual)
 
 - Large Language Models (GPT / LLaMA / Mistral)
 - Embeddings
